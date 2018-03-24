@@ -13,12 +13,12 @@
 
   <div class="field">
     <%= form.label :content %>
-    <%= form.text_area :content, id: :micropost_content %>
+    <%= form.text_area :content, id: :micropost_content, :required => true %>
   </div>
 
   <div class="field">
     <%= form.label :user_id %>
-    <%= form.number_field :user_id, id: :micropost_user_id %>
+    <%= form.number_field :user_id, id: :micropost_user_id, :required => true %>
   </div>
 
   <div class="actions">
