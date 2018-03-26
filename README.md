@@ -1,24 +1,15 @@
-# README
+### Creating a New User
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+User_name and email address needs to be filled out correctly.
 
-Things you may want to cover:
+![new_user1](images/new_user1.png)
 
-* Ruby version
+![new_user2](images/new_user2.png)
 
-* System dependencies
+### Creating a New Micropost
 
-* Configuration
+User_id and content needs to be filled out correctly.
 
-* Database creation
+![new_post1](images/new_post1.png)
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![new_post2](images/new_post2.png)
